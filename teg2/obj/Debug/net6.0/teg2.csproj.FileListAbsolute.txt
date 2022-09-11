@@ -1,0 +1,15 @@
+C:\Users\pantera\Desktop\c#3\teg\teg2\bin\Debug\net6.0\teg2.exe
+C:\Users\pantera\Desktop\c#3\teg\teg2\bin\Debug\net6.0\teg2.deps.json
+C:\Users\pantera\Desktop\c#3\teg\teg2\bin\Debug\net6.0\teg2.runtimeconfig.json
+C:\Users\pantera\Desktop\c#3\teg\teg2\bin\Debug\net6.0\teg2.dll
+C:\Users\pantera\Desktop\c#3\teg\teg2\bin\Debug\net6.0\teg2.pdb
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.csproj.AssemblyReference.cache
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.AssemblyInfoInputs.cache
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.AssemblyInfo.cs
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.csproj.CoreCompileInputs.cache
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.dll
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\refint\teg2.dll
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.pdb
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\teg2.genruntimeconfig.cache
+C:\Users\pantera\Desktop\c#3\teg\teg2\obj\Debug\net6.0\ref\teg2.dll
